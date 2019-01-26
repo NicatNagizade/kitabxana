@@ -1,0 +1,68 @@
+div{
+    font-style: italic;
+}
+/*header hissesi*/
+.menu{
+	font-size: 25px;
+	float: right;
+}
+.menu b{
+	border: solid 3px;
+	border-radius: 10px;
+	margin-right: 1px;
+}
+.menu a{
+	color: black;
+}
+.menu a:hover{
+	color: darkcyan;
+}
+
+
+
+/*--kitabxana, esas--*/
+/*orta teref*/
+.orta{
+	padding-left: 30px;
+}
+.orta a{
+	color: black;
+}
+.orta a:hover{
+	color: #04343D;
+}
+.orta ul{
+	padding-left: 60px;
+}
+.kitabtap{
+	margin: 5px 10px 0 10px;
+}
+.kitabtap-sekil{
+	width: 200px;
+	height: 300px;
+	float: left;
+	margin-right: 5px;
+}
+/*sol teref*/
+.solteref{
+	font-size: 24px;
+	background: #C0D0D3;
+	min-width: 150px;
+    text-align: center;
+}
+.solteref ul{
+	padding-left: 0px;
+}
+.solteref li{
+	border:solid 2px;
+	border-radius: 6px;
+}
+.solteref a{
+	color: black;
+}
+.solteref a:hover{
+	color: darkcyan;
+}
+.sagteref{
+    float: right;
+}
